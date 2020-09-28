@@ -1,6 +1,6 @@
 # campo_minado
 
-A new Flutter project.
+O clássico jogo campo minado em Flutter!
 
 ## Getting Started
 
